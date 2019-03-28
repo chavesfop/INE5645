@@ -1,5 +1,5 @@
 # INE5645-05238A (20191) - Programação Paralela e Distribuída  
-Rodrigo Chaves - 15205303
+Rodrigo Chaves - 
 
 ### Tarefa 1:
 
